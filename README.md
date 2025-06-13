@@ -1,6 +1,7 @@
 # 🖼️ Visual Story Generator: Turning Images into Stories
 
 **"A picture speaks a thousand words" — and now, literally.**
+**Colab link:** https://colab.research.google.com/drive/1PiiQDStaY9g0i4ekMLo2J1yhIKZnuJvb?usp=sharing
 
 This project generates **context-aware stories** from input images by combining deep computer vision and natural language generation. It’s designed to assist **writers, creatives, and storytellers** in turning visual content into rich narratives.
 
